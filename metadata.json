@@ -1,0 +1,6 @@
+{
+  "name": "First Year Admission Dashboard 2026-27",
+  "description": "Professional Power BI admission dashboard for 2026-27 featuring dynamic KPI cards, branch, taluka, and district distribution charts, hierarchical matrix visual, and interactive slicers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
